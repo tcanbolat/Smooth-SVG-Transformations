@@ -26,3 +26,4 @@ SVG File is json object with seperate svg paths to different areas of the face.
 ```
 
 ![image](https://drive.google.com/uc?export=view&id=1pkthN6ZdR1TPOaGnn3SkufDiFra0SG7P)
+<img src="https://drive.google.com/uc?export=view&id=1pkthN6ZdR1TPOaGnn3SkufDiFra0SG7P" />
