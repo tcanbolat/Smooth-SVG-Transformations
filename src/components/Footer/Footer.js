@@ -8,7 +8,7 @@ const Footer = () => {
           <p>
             Smooth SVG Transformations{" "}
             <a
-              href="https://portfolio-bf7ad.web.app/"
+              href="https://github.com/tcanbolat/Smooth-SVG-Transformations"
               target="_blank"
               rel="noopener noreferrer"
             >
